@@ -1,6 +1,5 @@
 ```gitignore
 # Excel files
-*.xlsx
 
 # Python compiled files
 *.pyc
